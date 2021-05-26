@@ -1,2 +1,2 @@
-# OneSpark LLC Private Test Repo
- <p>This is temoprary and is simply a placeholder for somthing bigger<p>
+# OneSpark LLC Private Test
+ <p>This is a temporary placeholder repo for somthing huge!<p>
